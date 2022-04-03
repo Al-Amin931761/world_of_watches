@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReviewData from '../../hooks/useReviewData';
 import Cart from '../Cart/Cart';
 import './Home.css'
@@ -26,6 +27,7 @@ const Home = () => {
                         sliceData.map(data => <Cart key={data.id} data={data}></Cart>)
                     }
                 </div>
+                <Link to="/reviews">See All Reviews</Link>
             </div>
         </section>
     );
