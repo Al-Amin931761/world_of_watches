@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "James",
+        "comment": "abc",
+        "rating": 4,
+        "picture": ""
+    },
+    {
+        "id": 2,
+        "name": "Robert",
+        "comment": "def",
+        "rating": 4.9,
+        "picture": ""
+    },
+    {
+        "id": 3,
+        "name": "John",
+        "comment": "ghi",
+        "rating": 3.9,
+        "picture": ""
+    },
+    {
+        "id": 4,
+        "name": "Michael",
+        "comment": "jkl",
+        "rating": 5,
+        "picture": ""
+    },
+    {
+        "id": 5,
+        "name": "William",
+        "comment": "mno",
+        "rating": 4.3,
+        "picture": ""
+    },
+    {
+        "id": 6,
+        "name": "Joseph",
+        "comment": "xyz",
+        "rating": 4.7,
+        "picture": ""
+    }
+]
