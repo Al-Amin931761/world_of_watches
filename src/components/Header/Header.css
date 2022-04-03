@@ -1,0 +1,8 @@
+.header a {
+    margin-right: 50px;
+    font-weight: 700;
+}
+
+.header a:hover {
+    color: tomato;
+}
