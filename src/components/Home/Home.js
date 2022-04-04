@@ -10,9 +10,11 @@ const Home = () => {
     const sliceData = reviewData.slice(0, 3);
     return (
         <section>
+            <h1 className='text-5xl'>World of Watches</h1>
             <div className='grid grid-cols-2'>
-                <div>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nostrum architecto quis praesentium animi, officia velit aliquam odio maxime voluptatum aperiam numquam. Eius quo, necessitatibus repellendus quisquam et itaque, aut dicta aperiam nihil odio minima asperiores non tempora. Natus cum iure, ipsa recusandae magni nemo ad sunt libero pariatur, delectus maxime eaque iste numquam optio necessitatibus reiciendis ipsam reprehenderit? Odit maxime asperiores nostrum corrupti et ea eum, debitis expedita qui! Suscipit tempora, obcaecati quaerat porro id ex! Unde, recusandae magnam officia deleniti natus libero. Nihil dolore tenetur, vitae harum nam iste rem reprehenderit veniam nobis molestiae odit ullam. Eius, eum?
+                <div className='mt-52'>
+                    <h2 className='text-4xl font-bold text-zinc-700'>Your next watch</h2>
+                    <h2 className='text-4xl font-bold text-blue-700'>Your best watch</h2>
                 </div>
 
                 <div className='picture'>
@@ -27,7 +29,7 @@ const Home = () => {
                         sliceData.map(data => <Cart key={data.id} data={data}></Cart>)
                     }
                 </div>
-                <Link to="/reviews">See All Reviews</Link>
+                <Link className='bg-amber-500 hover:bg-green-500 p-3 rounded-md font-bold' to="/reviews">See All Reviews</Link>
             </div>
         </section>
     );

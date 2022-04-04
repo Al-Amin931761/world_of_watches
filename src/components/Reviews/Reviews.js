@@ -6,7 +6,7 @@ const Reviews = () => {
     const [reviewData, setReviewData] = useReviewData([]);
     return (
         <div>
-            <h2>What our customers say!</h2>
+            <h1 className='text-3xl font-bold'>What our customers say!</h1>
             <div className='grid grid-cols-3'>
                 {
                     reviewData.map(cartData => <ReviewCart key={cartData.id} cartData={cartData}></ReviewCart>)
