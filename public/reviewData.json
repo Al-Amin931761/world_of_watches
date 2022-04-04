@@ -3,36 +3,42 @@
         "id": 1,
         "name": "James",
         "comment": "This is my 3rd swatch watch of the same design. I love it. Good clear face and I love the date. Would recommend this watch.",
-        "rating": 4
+        "rating": 4,
+        "picture": "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVuJTIwZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
         "id": 2,
         "name": "Isabella",
         "comment": "I bought this as a Christmas gift for my husband. It looks better in person. I also love that the face isn’t on the large side. It’s great for casual attire and can even be dressed up. My husband plans to buy more bands for this watch as well. I would highly recommend this watch.",
-        "rating": 4.9
+        "rating": 4.9,
+        "picture": "https://images.unsplash.com/photo-1590926938512-c0d7e5c39abd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVwb2xlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
         "id": 3,
         "name": "John",
         "comment": "This is a good watch and definitely accurate like all Swiss watches are. It's a little bigger than the usual gents size but it doesn't look overly huge on my wrist. I like its simplicity with its easy to tell time as well as the day/date feature. I am not a fan of taking out my phone to look at the time every few minutes.  Price was very affordable too. I would recommend this watch for men, women, and teenagers as a casual, everyday watch to wear for work or school.",
-        "rating": 3.9
+        "rating": 3.9,
+        "picture": "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWVuJTIwZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60"
     },
     {
         "id": 4,
         "name": "Michael",
         "comment": "After a very dissappointing experience with two different time's that were junk, I love this watch. It's light, comfortable, easy to read, keeps good time. I noticed a few reviews saying they date and day were not syncing up. You need to make sure you are setting either the AM or PM time. Once past midnight it's AM, twice PM. My first day it didn't switch over so I wound it to 12 hours later, reset the date and now it's perfect.",
-        "rating": 5
+        "rating": 5,
+        "picture": "https://images.unsplash.com/photo-1617137968427-85924c800a22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWVuJTIwZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60"
     },
     {
         "id": 5,
         "name": "William",
         "comment": "Good looking casual watch. Works with so many outfits and occasions. Took 3 stars because of poor quality, the watch broke after a couple months, luckily I was able to get it repaired.",
-        "rating": 3
+        "rating": 3,
+        "picture": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
         "id": 6,
         "name": "Joseph",
         "comment": "I purchased this as a Christmas gift for family. This is my second  watch that I've gifted and they are a very nice clean looking watch. They are more in the sporty end of things than a dress watch. I've purchased a white one also and it looks great. This watch is able to go under water and these are the types of watches that I look for. It has a nice size face and the time is very easy to read. The forest green looks is nice and unique. It has an a slot for the date and it makes a great gift or a perfect compliment to your watch collection. After purchasing 2 watches for other, it's time that I get myself one.",
-        "rating": 4.7
+        "rating": 4.7,
+        "picture": "https://images.unsplash.com/photo-1613181013804-1dcba09e6a9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzh8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     }
 ]
