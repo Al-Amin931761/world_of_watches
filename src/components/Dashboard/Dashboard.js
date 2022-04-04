@@ -12,7 +12,7 @@ const Dashboard = () => {
     return (
         <section className='grid grid-cols-2'>
             <div className='m-10'>
-                <h2 className='font-bold text-2xl'>Month Wise Sell</h2>
+                <h2 className='font-bold text-2xl mb-5 text-sky-600'>Month Wise Sell</h2>
                 <div>
                     <LineChart width={600} height={400} data={data}>
                         <Line type="monotone" dataKey={'sell'} stroke="#8884d8" strokeWidth={2}></Line>
@@ -25,7 +25,7 @@ const Dashboard = () => {
             </div>
 
             <div className='m-10'>
-                <h2 className='font-bold text-2xl'>Investment VS Revenue</h2>
+                <h2 className='font-bold text-2xl mb-5 text-sky-600'>Investment VS Revenue</h2>
                 <div >
                     <BarChart width={600} height={400} data={data}>
                         <Bar dataKey={'investment'} fill="#8884d8" stackId="a"></Bar>

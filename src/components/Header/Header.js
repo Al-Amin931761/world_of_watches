@@ -4,15 +4,18 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div className='m-5'>
-            <nav className='header'>
-                <Link to="/home">Home</Link>
-                <Link to="/reviews">Reviews</Link>
-                <Link to="/dashboard">Dashboard</Link>
-                <Link to="/blogs">Blogs</Link>
-                <Link to="/about">About</Link>
-            </nav>
-        </div>
+        <section>
+            <h1 className='text-5xl font-bold m-5 bg-slate-400/25 p-5'>World of Watches</h1>
+            <div className='m-5'>
+                <nav className='header text-xl'>
+                    <Link to="/home">Home</Link>
+                    <Link to="/reviews">Reviews</Link>
+                    <Link to="/dashboard">Dashboard</Link>
+                    <Link to="/blogs">Blogs</Link>
+                    <Link to="/about">About</Link>
+                </nav>
+            </div>
+        </section>
     );
 };
 
