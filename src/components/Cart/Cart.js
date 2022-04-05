@@ -4,7 +4,7 @@ import './Cart.css';
 const Cart = ({ data }) => {
     const { name, rating, comment, picture } = data;
     return (
-        <div className='bg-gray-200 m-6 p-6 rounded-lg shadow-xl'>
+        <div className='bg-slate-50 m-6 p-6 rounded-lg shadow-xl'>
             <div className='cart'>
                 <img src={picture} alt="" />
                 <h2 className='m-5 text-2xl'><span className='font-bold'>Name:</span> {name}</h2>
