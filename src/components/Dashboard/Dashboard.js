@@ -3,7 +3,7 @@ import { Bar, BarChart, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'r
 
 const Dashboard = () => {
     const [data, setData] = useState([]);
-    console.log(data)
+
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())

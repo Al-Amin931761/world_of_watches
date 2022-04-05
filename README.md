@@ -1,3 +1,11 @@
+# World of Watches
+## Live site: [click here](https://www.youtube.com)
+
+* My project has a header component. All "Link" are inside my header component.
+* I created two charts called "Tiny Line Chart", "Stacked Bar Chart" in deshboard component.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

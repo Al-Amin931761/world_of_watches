@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
     return (
         <section>
-            <h1 className='text-5xl font-bold m-5 bg-slate-400/25 p-5'>World of Watches</h1>
+            <h1 className='text-5xl font-bold bg-slate-400/25 p-5'>World of Watches</h1>
             <div className='m-5'>
                 <nav className='header text-xl'>
                     <Link to="/home">Home</Link>
